@@ -1,0 +1,4 @@
+/* Global Styling here */
+input:focus, button:focus{
+    box-shadow: 0 0 0 1px rgba(18,100,163,1), 0 0 0 5px #1d9bd14d;
+}
